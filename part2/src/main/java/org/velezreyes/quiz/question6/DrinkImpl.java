@@ -1,6 +1,4 @@
-package org.velezreyes;
-
-import org.velezreyes.quiz.question6.Drink;
+package org.velezreyes.quiz.question6;
 
 public class DrinkImpl implements Drink {
     

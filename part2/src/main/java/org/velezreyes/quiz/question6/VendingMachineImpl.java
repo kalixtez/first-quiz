@@ -4,8 +4,6 @@ import java.util.AbstractMap;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.velezreyes.DrinkImpl;
-
 public class VendingMachineImpl implements VendingMachine {
 
   private int balance; // This is the currentA vending machine that only accept quarters... :O
